@@ -1,4 +1,7 @@
 .idea
-node_modules
+node_modules/*
 build
 /dist
+
+# So demos run on GitHub Pages site
+!node_modules/webcomponents.js
